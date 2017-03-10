@@ -25,7 +25,7 @@ print mean(\@genome_mb), "\n";
 
 
 
-# Question 2
+# Exercise II
 # Write a subroutine that takes two array references as input, which
 # are the same length (you could check that they are the same length!).
 # Have it return a reference to a hash, where the keys are the
